@@ -69,7 +69,7 @@
     <h2 style="text-align: center">
       Amonova Nilufar Zayniddinovnaning yaqinlari haqida
     </h2>
-    <h1 style="text-align: center">MA'LUMOTNOMA</h1>
+    <h1 style="text-align: center; margin-bottom: 20px">MA'LUMOTNOMA</h1>
     <v-row class="thead">
       <v-col md="2"><p>Qarindoshligi</p></v-col>
       <v-col md="3"><p>Familiyasi va ismi</p></v-col>
